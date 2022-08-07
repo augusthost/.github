@@ -1,7 +1,7 @@
 
 👋 Hi There, we are augusthost team from Myanmar, Shan State.
 
-<img src="https://res.cloudinary.com/dpnea22ek/image/upload/v1659840228/ag-logo.jpg" width="60%" />
+<img src="https://res.cloudinary.com/dpnea22ek/image/upload/v1659840228/ag-logo.jpg" width="100" />
 
 [Check out our website](https://augusthost.com)
 
